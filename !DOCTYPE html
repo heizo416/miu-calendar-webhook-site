@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miu's Calendar Webhook</title>
+</head>
+<body>
+    <h1>Welcome to Miu's Calendar Webhook Site!</h1>
+    <p>このサイトは Google OAuth 認証のためのページです。</p>
+    <p><a href="privacy-policy.html">プライバシーポリシーはこちら</a></p>
+</body>
+</html>
